@@ -1,0 +1,277 @@
+\begin{thebibliography}{48}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{{#1}}
+\providecommand{\urlprefix}{URL }
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{DOI~\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{DOI~\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+\providecommand{\eprint}[2][]{\url{#2}}
+
+\bibitem[{Amit et~al.(2017)Amit, Abeles, Bar-Gad, and
+  Yuval-Greenberg}]{amit2017temporal}
+Amit R, Abeles D, Bar-Gad I, Yuval-Greenberg S (2017) Temporal dynamics of
+  saccades explained by a self-paced process. Scientific reports 7(1):886,
+  \doi{10.1038/s41598-017-00881-7}
+
+\bibitem[{Andersson et~al.(2017)Andersson, Larsson, Holmqvist, Stridh, and
+  Nystr{\"{o}}m}]{Andersson2017}
+Andersson R, Larsson L, Holmqvist K, Stridh M, Nystr{\"{o}}m M (2017) {One
+  algorithm to rule them all? An evaluation and discussion of ten eye movement
+  event-detection algorithms}. Behavior Research Methods 49(2):616--637,
+  \doi{10.3758/s13428-016-0738-9}
+
+\bibitem[{Bahill et~al.(1975)Bahill, Clark, and Stark}]{bahill1975main}
+Bahill AT, Clark MR, Stark L (1975) The main sequence, a tool for studying
+  human eye movements. Mathematical Biosciences 24(3-4):191--204,
+  \urlprefix\url{https://doi.org/10.1016/0025-5564(75)90075-9}
+
+\bibitem[{Carl and Gellman(1987)}]{carl1987pursuits}
+Carl JR, Gellman RS (1987) Human smooth pursuit: stimulus-dependent responses.
+  Journal of Neurophysiology 57(5):1446--1463, \doi{10.1152/jn.1987.57.5.1446},
+  pMID: 3585475
+
+\bibitem[{Cherici et~al.(2012)Cherici, Kuang, Poletti, and Rucci}]{cherici2012}
+Cherici C, Kuang X, Poletti M, Rucci M (2012) {Precision of sustained fixation
+  in trained and untrained observers}. Journal of Vision 12(6):31--31,
+  \doi{10.1167/12.6.31}
+
+\bibitem[{Choe et~al.(2016)Choe, Blake, and Lee}]{choe2016pupil}
+Choe KW, Blake R, Lee SH (2016) Pupil size dynamics during fixation impact the
+  accuracy and precision of video-based gaze estimation. Vision research
+  118:48--59
+
+\bibitem[{Cohen(1960)}]{cohen1960coefficient}
+Cohen J (1960) A coefficient of agreement for nominal scales. Educational and
+  psychological measurement 20(1):37--46
+
+\bibitem[{Dalveren and Cagiltay(2019)}]{dalveren2019evaluation}
+Dalveren GGM, Cagiltay NE (2019) Evaluation of ten open-source eye-movement
+  classification algorithms in simulated surgical scenarios. IEEE Access
+  7:161794--161804
+
+\bibitem[{Dorr et~al.(2010)Dorr, Martinetz, Gegenfurtner, and
+  Barth}]{dorr2010variability}
+Dorr M, Martinetz T, Gegenfurtner KR, Barth E (2010) Variability of eye
+  movements when viewing dynamic natural scenes. Journal of vision
+  10(10):28--28, \doi{10.1167/10.10.28}
+
+\bibitem[{Friedman et~al.(2018)Friedman, Rigas, Abdulin, and
+  Komogortsev}]{Friedman2018}
+Friedman L, Rigas I, Abdulin E, Komogortsev OV (2018) {A novel evaluation of
+  two related and two independent algorithms for eye movement classification
+  during reading}. Behavior Research Methods 50(4):1374--1397,
+  \doi{10.3758/s13428-018-1050-7}
+
+\bibitem[{Goltz et~al.(1997)Goltz, Irving, Steinbach, and
+  EizenamnIZENMAN}]{GOLTZ1997789}
+Goltz H, Irving E, Steinbach M, EizenamnIZENMAN M (1997) Vertical eye position
+  control in darkness: Orbital position and body orientation interact to
+  modulate drift velocity. Vision Research 37(6):789 -- 798,
+  \doi{https://doi.org/10.1016/S0042-6989(96)00217-9}
+
+\bibitem[{Gordon et~al.(2006)Gordon, Hendrick, Johnson, and Lee}]{Gordon2006}
+Gordon PC, Hendrick R, Johnson M, Lee Y (2006) {Similarity-based interference
+  during language comprehension: Evidence from eye tracking during reading.}
+  Journal of Experimental Psychology: Learning, Memory, and Cognition
+  32(6):1304--1321, \doi{10.1037/0278-7393.32.6.1304}
+
+\bibitem[{Gorgolewski et~al.(2016)Gorgolewski, Auer, Calhoun, Craddock, Das,
+  Duff, Flandin, Ghosh, Glatard, Halchenko et~al.}]{gorgolewski2016brain}
+Gorgolewski KJ, Auer T, Calhoun VD, Craddock RC, Das S, Duff EP, Flandin G,
+  Ghosh SS, Glatard T, Halchenko YO, et~al. (2016) The brain imaging data
+  structure, a format for organizing and describing outputs of neuroimaging
+  experiments. Scientific Data 3:160044, \doi{10.1038/sdata.2016.44}
+
+\bibitem[{Halchenko et~al.(2013--)Halchenko, Hanke et~al.}]{HH+2013}
+Halchenko YO, Hanke M, et~al. (2013--) {DataLad}: perpetual decentralized
+  management of digital objects. \doi{10.5281/zenodo.1470735},
+  \urlprefix\url{http://datalad.org}
+
+\bibitem[{Hanke et~al.(2016)Hanke, Adelh{\"{o}}fer, Kottke, Iacovella,
+  Sengupta, Kaule, Nigbur, Waite, Baumgartner, and Stadler}]{Hanke2016}
+Hanke M, Adelh{\"{o}}fer N, Kottke D, Iacovella V, Sengupta A, Kaule FR, Nigbur
+  R, Waite AQ, Baumgartner F, Stadler J (2016) {A studyforrest extension,
+  simultaneous fMRI and eye gaze recordings during prolonged natural
+  stimulation}. Scientific Data 3:160092, \doi{10.1038/sdata.2016.92}
+
+\bibitem[{Hanke et~al.(2019)Hanke, Dar, and
+  Wagner}]{michael_hanke_2019_2651042}
+Hanke M, Dar AH, Wagner A (2019) psychoinformatics-de/remodnav: Submission
+  time. \doi{10.5281/zenodo.2651042}
+
+\bibitem[{Hannula et~al.(2010)Hannula, Althoff, Warren, Riggs, Cohen, and
+  Ryan}]{Hannula2010}
+Hannula DE, Althoff RR, Warren DE, Riggs L, Cohen NJ, Ryan JD (2010) {Worth a
+  glance: using eye movements to investigate the cognitive neuroscience of
+  memory}. Frontiers in Human Neuroscience 4:166,
+  \doi{10.3389/fnhum.2010.00166}
+
+\bibitem[{Harris et~al.(2014)Harris, Young, and Andrews}]{Harris2014}
+Harris RJ, Young AW, Andrews TJ (2014) {Dynamic stimuli demonstrate a
+  categorical representation of facial expression in the amygdala.}
+  Neuropsychologia 56(100):47--52, \doi{10.1016/j.neuropsychologia.2014.01.005}
+
+\bibitem[{Hessels et~al.(2017)Hessels, Niehorster, Kemner, and
+  Hooge}]{hessels2017noise}
+Hessels RS, Niehorster DC, Kemner C, Hooge IT (2017) Noise-robust fixation
+  detection in eye movement data: Identification by two-means clustering
+  (i2mc). Behavior research methods 49(5):1802--1823
+
+\bibitem[{Hessels et~al.(2018)Hessels, Niehorster, Nystr{\"o}m, Andersson, and
+  Hooge}]{hessels2018eye}
+Hessels RS, Niehorster DC, Nystr{\"o}m M, Andersson R, Hooge IT (2018) Is the
+  eye-movement field confused about fixations and saccades? a survey among 124
+  researchers. Royal Society open science 5(8):180502
+
+\bibitem[{Holmqvist et~al.(2011)Holmqvist, Nystr{\"o}m, Andersson, Dewhurst,
+  Jarodzka, and Van~de Weijer}]{holmqvist2011eye}
+Holmqvist K, Nystr{\"o}m M, Andersson R, Dewhurst R, Jarodzka H, Van~de Weijer
+  J (2011) Eye tracking: A comprehensive guide to methods and measures. OUP
+  Oxford
+
+\bibitem[{Holmqvist et~al.(2012)Holmqvist, Nystr{\"{o}}m, and
+  Mulvey}]{Holmqvist2012}
+Holmqvist K, Nystr{\"{o}}m M, Mulvey F (2012) {Eye tracker data quality}. In:
+  Proceedings of the Symposium on Eye Tracking Research and Applications - ETRA
+  '12, ACM Press, New York, New York, USA, p~45, \doi{10.1145/2168556.2168563}
+
+\bibitem[{Hooge et~al.(2016)Hooge, Holmqvist, and Nyström}]{HOOGE20166}
+Hooge I, Holmqvist K, Nyström M (2016) The pupil is faster than the corneal
+  reflection (cr): Are video based pupil-cr eye trackers suitable for studying
+  detailed dynamics of eye movements? Vision Research 128:6 -- 18,
+  \doi{https://doi.org/10.1016/j.visres.2016.09.002},
+  \urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0042698916301031}
+
+\bibitem[{Hooge et~al.(2018)Hooge, Niehorster, Nystr{\"o}m, Andersson, and
+  Hessels}]{Hooge2018}
+Hooge ITC, Niehorster DC, Nystr{\"o}m M, Andersson R, Hessels RS (2018) Is
+  human classification by experienced untrained observers a gold standard in
+  fixation detection? Behavior Research Methods 50(5):1864--1881,
+  \doi{10.3758/s13428-017-0955-x}
+
+\bibitem[{Hunter(2007)}]{hunter2007matplotlib}
+Hunter JD (2007) Matplotlib: A 2d graphics environment. Computing in science \&
+  engineering 9(3):90--95, \doi{10.1109/MCSE.2007.55}
+
+\bibitem[{Jaccard(1901)}]{jaccard1901etude}
+Jaccard P (1901) {\'E}tude comparative de la distribution florale dans une
+  portion des alpes et des jura. Bull Soc Vaudoise Sci Nat 37:547--579
+
+\bibitem[{Jones et~al.(2001--)Jones, Oliphant, Peterson et~al.}]{JOP+2001}
+Jones E, Oliphant T, Peterson P, et~al. (2001--) {SciPy}: Open source
+  scientific tools for {Python}. \urlprefix\url{http://www.scipy.org}
+
+\bibitem[{Komogortsev and Karpov(2013)}]{Komogortsev2013}
+Komogortsev OV, Karpov A (2013) Automated classification and scoring of smooth
+  pursuit eye movements in the presence of fixations and saccades. Behavior
+  Research Methods 45(1):203--215, \doi{10.3758/s13428-012-0234-9}
+
+\bibitem[{{Komogortsev} et~al.(2010){Komogortsev}, {Gobert}, {Jayarathna},
+  {Koh}, and {Gowda}}]{5523936}
+{Komogortsev} OV, {Gobert} DV, {Jayarathna} S, {Koh} DH, {Gowda} SM (2010)
+  Standardization of automated analyses of oculomotor fixation and saccadic
+  behaviors. IEEE Transactions on Biomedical Engineering 57(11):2635--2645,
+  \doi{10.1109/TBME.2010.2057429}
+
+\bibitem[{Larsson et~al.(2013)Larsson, Nystr{\"{o}}m, and Stridh}]{Larsson2013}
+Larsson L, Nystr{\"{o}}m M, Stridh M (2013) {Detection of saccades and
+  postsaccadic oscillations in the presence of smooth pursuit}. IEEE
+  Transactions on Biomedical Engineering 60(9):2484--2493,
+  \doi{10.1109/TBME.2013.2258918}
+
+\bibitem[{Larsson et~al.(2015)Larsson, Nystr{\"{o}}m, Andersson, and
+  Stridh}]{LARSSON2015145}
+Larsson L, Nystr{\"{o}}m M, Andersson R, Stridh M (2015) Detection of fixations
+  and smooth pursuit movements in high-speed eye-tracking data. Biomedical
+  Signal Processing and Control 18:145 -- 152,
+  \doi{https://doi.org/10.1016/j.bspc.2014.12.008}
+
+\bibitem[{Liu and Heynderickx(2011)}]{HantaoLiu2011}
+Liu H, Heynderickx I (2011) {Visual attention in objective image quality
+  assessment: Based on eye-tracking data}. IEEE Transactions on Circuits and
+  Systems for Video Technology 21(7):971--982, \doi{10.1109/TCSVT.2011.2133770}
+
+\bibitem[{Maguire(2012)}]{maguire2012studying}
+Maguire EA (2012) Studying the freely-behaving brain with fmri. Neuroimage
+  62(2):1170--1176
+
+\bibitem[{Mathe and Sminchisescu(2012)}]{Mathe2012}
+Mathe S, Sminchisescu C (2012) Dynamic eye movement datasets and learnt
+  saliency models for visual action recognition. In: Proceedings, Part II, of
+  the 12th European Conference on Computer Vision --- ECCV 2012 - Volume 7573,
+  Springer-Verlag, Berlin, Heidelberg, p 842–856
+
+\bibitem[{Matusz et~al.(2019)Matusz, Dikker, Huth, and Perrodin}]{real_world}
+Matusz PJ, Dikker S, Huth AG, Perrodin C (2019) Are we ready for real-world
+  neuroscience? Journal of Cognitive Neuroscience 31(3):327--338,
+  \doi{10.1162/jocn\_e\_01276}, pMID: 29916793
+
+\bibitem[{McKinney et~al.(2010)}]{mckinney2010data}
+McKinney W, et~al. (2010) Data structures for statistical computing in python.
+  In: Proceedings of the 9th Python in Science Conference, Austin, TX, vol 445,
+  pp 51--56
+
+\bibitem[{Nystr{\"{o}}m and Holmqvist(2010)}]{Nystrom2010AnData}
+Nystr{\"{o}}m M, Holmqvist K (2010) {An adaptive algorithm for fixation,
+  saccade, and glissade detection in eyetracking data}. Behavior Research
+  Methods 42(1):188--204, \doi{10.3758/BRM.42.1.188}
+
+\bibitem[{Oliphant(2006)}]{oliphant2006guide}
+Oliphant TE (2006) A guide to NumPy, vol~1. Trelgol Publishing USA
+
+\bibitem[{van Renswoude et~al.(2018)van Renswoude, Raijmakers, Koornneef,
+  Johnson, Hunnius, and Visser}]{van2018gazepath}
+van Renswoude DR, Raijmakers ME, Koornneef A, Johnson SP, Hunnius S, Visser I
+  (2018) Gazepath: An eye-tracking analysis tool that accounts for individual
+  differences and data quality. Behavior research methods 50(2):834--852
+
+\bibitem[{Schnaithman(2017)}]{Sch2017}
+Schnaithman U (2017) Combining and testing filter and detection algorithms for
+  post-experimental analysis of eye tracking data on dynamic stimuli. B.Sc.
+  thesis submitted to the faculty of natural sciences at the Otto von Guericke
+  University, Magdeburg, Germany
+
+\bibitem[{Schutz et~al.(2011)Schutz, Braun, and Gegenfurtner}]{Schutz2011}
+Schutz AC, Braun DI, Gegenfurtner KR (2011) {Eye movements and perception: A
+  selective review}. Journal of Vision 11(5):9--9, \doi{10.1167/11.5.9}
+
+\bibitem[{Seabold and Perktold(2010)}]{seabold2010statsmodels}
+Seabold S, Perktold J (2010) Statsmodels: Econometric and statistical modeling
+  with python. In: 9th Python in Science Conference
+
+\bibitem[{Stampe(1993)}]{stampe1993}
+Stampe DM (1993) Heuristic filtering and reliable calibration methods for
+  video-based pupil-tracking systems. Behavior Research Methods, Instruments,
+  {\&} Computers 25(2):137--142, \doi{10.3758/BF03204486}
+
+\bibitem[{Startsev et~al.(2018)Startsev, Agtzidis, and Dorr}]{Startsev2018}
+Startsev M, Agtzidis I, Dorr M (2018) 1d cnn with blstm for automated
+  classification of fixations, saccades, and smooth pursuits. Behavior Research
+  Methods \doi{10.3758/s13428-018-1144-2}
+
+\bibitem[{Tagliazucchi and Laufs(2014)}]{wakefulness}
+Tagliazucchi E, Laufs H (2014) Decoding wakefulness levels from typical fmri
+  resting-state data reveals reliable drifts between wakefulness and sleep.
+  Neuron 82(3):695 -- 708, \doi{https://doi.org/10.1016/j.neuron.2014.03.020},
+  \urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0896627314002505}
+
+\bibitem[{Tikka et~al.(2012)Tikka, V{\"{a}}ljam{\"{a}}e, de~Borst, Pugliese,
+  Ravaja, Kaipainen, and Takala}]{Tikka2012}
+Tikka P, V{\"{a}}ljam{\"{a}}e A, de~Borst AW, Pugliese R, Ravaja N, Kaipainen
+  M, Takala T (2012) {Enactive cinema paves way for understanding complex
+  real-time social interaction in neuroimaging experiments}. Frontiers in Human
+  Neuroscience 6:298, \doi{10.3389/fnhum.2012.00298}
+
+\bibitem[{Toiviainen et~al.(2014)Toiviainen, Alluri, Brattico, Wallentin, and
+  Vuust}]{Toiviainen2014}
+Toiviainen P, Alluri V, Brattico E, Wallentin M, Vuust P (2014) {Capturing the
+  musical brain with Lasso: Dynamic decoding of musical features from fMRI
+  data}. NeuroImage 88:170--180, \doi{10.1016/J.NEUROIMAGE.2013.11.017}
+
+\bibitem[{Zemblys et~al.(2018)Zemblys, Niehorster, and Holmqvist}]{Zemblys2018}
+Zemblys R, Niehorster DC, Holmqvist K (2018) gazenet: End-to-end eye-movement
+  event detection with deep neural networks. Behavior Research Methods
+  \doi{10.3758/s13428-018-1133-5}
+
+\end{thebibliography}

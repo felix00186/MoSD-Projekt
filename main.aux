@@ -1,0 +1,203 @@
+\relax 
+\providecommand\hyper@newdestlabel[2]{}
+\providecommand\HyperFirstAtBeginDocument{\AtBeginDocument}
+\HyperFirstAtBeginDocument{\ifx\hyper@anchor\@undefined
+\global\let\oldnewlabel\newlabel
+\gdef\newlabel#1#2{\newlabelxx{#1}#2}
+\gdef\newlabelxx#1#2#3#4#5#6{\oldnewlabel{#1}{{#2}{#3}}}
+\AtEndDocument{\ifx\hyper@anchor\@undefined
+\let\newlabel\oldnewlabel
+\fi}
+\fi}
+\global\let\hyper@last\relax 
+\gdef\HyperFirstAtBeginDocument#1{#1}
+\providecommand\HyField@AuxAddToFields[1]{}
+\providecommand\HyField@AuxAddToCoFields[2]{}
+\citation{real_world}
+\citation{maguire2012studying}
+\citation{Harris2014}
+\citation{Tikka2012}
+\citation{Toiviainen2014}
+\citation{HantaoLiu2011}
+\citation{Hannula2010}
+\citation{Gordon2006}
+\citation{Schutz2011}
+\citation{Andersson2017}
+\citation{Nystrom2010AnData}
+\citation{holmqvist2011eye,dorr2010variability}
+\citation{Friedman2018}
+\citation{hessels2018eye}
+\citation{carl1987pursuits}
+\citation{Andersson2017}
+\citation{LARSSON2015145,Komogortsev2013}
+\citation{Schutz2011}
+\citation{Nystrom2010AnData}
+\citation{Nystrom2010AnData}
+\citation{Andersson2017}
+\newlabel{intro}{{}{2}{Introduction}{section*.1}{}}
+\citation{holmqvist2011eye}
+\citation{hessels2017noise}
+\citation{van2018gazepath}
+\citation{dalveren2019evaluation}
+\citation{hessels2018eye}
+\citation{stampe1993}
+\citation{Friedman2018}
+\citation{choe2016pupil}
+\citation{holmqvist2011eye}
+\citation{Nystrom2010AnData}
+\citation{Nystrom2010AnData}
+\citation{amit2017temporal}
+\citation{GOLTZ1997789,cherici2012}
+\citation{Nystrom2010AnData}
+\citation{Friedman2018}
+\newlabel{methods}{{}{3}{Methods}{section*.2}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {1}{\ignorespaces Schematic algorithm overview. (A) Preprocessing. The two plots show raw (blue) and processed (black) time series after preprocessing with the default parameter values (see Table \ref {tab:parameters} for details). (B) Adaptive saccade velocity computation and time series chunking. Starting from an initial velocity threshold ({\texttt  {velthresh\_startvelocity}}), a global velocity threshold is iteratively determined. The time series is chunked into intervals between the fastest saccades across the complete recording. (C) Saccade and PSO classification. Saccade on- and offsets, and PSO on- and offsets are classified based on adaptive velocity thresholds computed within the respective event contexts. The default context is either \unit  [1]{s} centered on the peak velocity for saccadic events used for time series chunking, or the entire time series chunk for intersaccadic intervals. PSOs are classified into low- or high-velocity PSOs depending on whether they exceed the saccade onset- or peak-velocity threshold. (D) Fixation and pursuit classification. Remaining unlabeled segments are filtered with a low-pass Butterworth filter. Samples exceeding a configurable pursuit velocity threshold ({\texttt  {pursuit\_velthresh}}) are classified as pursuits, and segments that do not qualify as pursuits are classified as fixations. }}{4}{figure.1}\protected@file@percent }
+\newlabel{fig:alg}{{1}{4}{Schematic algorithm overview. (A) Preprocessing. The two plots show raw (blue) and processed (black) time series after preprocessing with the default parameter values (see Table \ref {tab:parameters} for details). (B) Adaptive saccade velocity computation and time series chunking. Starting from an initial velocity threshold (\param {velthresh\_startvelocity}), a global velocity threshold is iteratively determined. The time series is chunked into intervals between the fastest saccades across the complete recording. (C) Saccade and PSO classification. Saccade on- and offsets, and PSO on- and offsets are classified based on adaptive velocity thresholds computed within the respective event contexts. The default context is either \unit [1]{s} centered on the peak velocity for saccadic events used for time series chunking, or the entire time series chunk for intersaccadic intervals. PSOs are classified into low- or high-velocity PSOs depending on whether they exceed the saccade onset- or peak-velocity threshold. (D) Fixation and pursuit classification. Remaining unlabeled segments are filtered with a low-pass Butterworth filter. Samples exceeding a configurable pursuit velocity threshold (\param {pursuit\_velthresh}) are classified as pursuits, and segments that do not qualify as pursuits are classified as fixations}{figure.1}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {1}{\ignorespaces Exhaustive list of algorithm parameters, their default values, and units.}}{5}{table.1}\protected@file@percent }
+\newlabel{tab:parameters}{{1}{5}{Exhaustive list of algorithm parameters, their default values, and units}{table.1}{}}
+\newlabel{eq:threshold}{{3}{5}{Saccade velocity threshold}{equation.0.3}{}}
+\citation{oliphant2006guide}
+\citation{hunter2007matplotlib}
+\citation{seabold2010statsmodels}
+\citation{JOP+2001}
+\citation{HH+2013}
+\citation{mckinney2010data}
+\citation{gorgolewski2016brain}
+\newlabel{op}{{}{6}{Operation}{section*.9}{}}
+\citation{Andersson2017}
+\citation{Andersson2017}
+\citation{Zemblys2018}
+\citation{Andersson2017}
+\citation{Nystrom2010AnData}
+\citation{Andersson2017}
+\citation{Andersson2017}
+\citation{Startsev2018}
+\citation{Andersson2017}
+\citation{Andersson2017}
+\citation{jaccard1901etude}
+\newlabel{ana}{{}{7}{Validation analyses}{section*.10}{}}
+\newlabel{ana_1}{{}{7}{Algorithm comparison}{section*.11}{}}
+\citation{Andersson2017}
+\citation{jaccard1901etude}
+\citation{Andersson2017}
+\citation{jaccard1901etude}
+\citation{Andersson2017}
+\citation{cohen1960coefficient}
+\citation{Andersson2017}
+\citation{Andersson2017}
+\citation{Andersson2017}
+\citation{Andersson2017}
+\citation{Andersson2017}
+\@writefile{lot}{\contentsline {table}{\numberline {2}{\ignorespaces Proportion of samples in each stimulus category classified in disagreement between human coders (MN, RA) and the REMoDNaV\ algorithm (AL). The MC (misclassification) column lists proportions considering all four event categories (fixation, saccade, PSO, pursuit), while the w/oP (without pursuit) column excludes pursuit events for a direct comparison with \citet  [][Tables 8-10]{Andersson2017}. The remaining columns show the percentage of labels assigned to incongruent time points by each rater (deviation of their sum from 100\% is due to rounding). }}{8}{table.2}\protected@file@percent }
+\newlabel{tab:mclf}{{2}{8}{Proportion of samples in each stimulus category classified in disagreement between human coders (MN, RA) and the \remodnav \ algorithm (AL). The MC (misclassification) column lists proportions considering all four event categories (fixation, saccade, PSO, pursuit), while the w/oP (without pursuit) column excludes pursuit events for a direct comparison with \citet [][Tables 8-10]{Andersson2017}. The remaining columns show the percentage of labels assigned to incongruent time points by each rater (deviation of their sum from 100\% is due to rounding)}{table.2}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {3}{\ignorespaces Cohen's Kappa reliability between human coders (MN, RA), and REMoDNaV\ (AL) with each of the human coders. }}{8}{table.3}\protected@file@percent }
+\newlabel{tab:kappa}{{3}{8}{Cohen's Kappa reliability between human coders (MN, RA), and \remodnav \ (AL) with each of the human coders}{table.3}{}}
+\newlabel{eq:kappa}{{4}{8}{Algorithm comparison}{equation.0.4}{}}
+\citation{Andersson2017}
+\citation{Larsson2013}
+\citation{Andersson2017}
+\citation{Andersson2017}
+\citation{Andersson2017}
+\citation{Andersson2017}
+\citation{Andersson2017}
+\citation{Andersson2017}
+\citation{Andersson2017}
+\citation{Andersson2017}
+\@writefile{lof}{\contentsline {figure}{\numberline {2}{\ignorespaces Confusion patterns for pairwise eye movement classification comparison of both human raters \citep  [MN and RA; ][]{Andersson2017} and the REMoDNaV\ algorithm (AL) for gaze recordings from stimulation with static images (left column), moving dots (middle column), and video clips (right column). All matrices present gaze sample based Jaccard indices \citep  [JI; ][]{jaccard1901etude}. Consequently, the diagonals depict the fraction of time points labeled congruently by both raters in relation to the number of timepoints assigned to a particular event category by any rater.}}{9}{figure.2}\protected@file@percent }
+\newlabel{fig:conf}{{2}{9}{Confusion patterns for pairwise eye movement classification comparison of both human raters \citep [MN and RA; ][]{Andersson2017} and the \remodnav \ algorithm (AL) for gaze recordings from stimulation with static images (left column), moving dots (middle column), and video clips (right column). All matrices present gaze sample based Jaccard indices \citep [JI; ][]{jaccard1901etude}. Consequently, the diagonals depict the fraction of time points labeled congruently by both raters in relation to the number of timepoints assigned to a particular event category by any rater}{figure.2}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {4}{\ignorespaces Comparison of event duration statistics (mean, standard deviation, and number of events) for image, dot, and video stimuli. This table is modeled after \citet  [Tables 3-6]{Andersson2017}, and root-mean-square-deviations (RMSD) from human raters are shown for fixations, saccades, PSOs, and pursuit as zero-based ranks (rank zero is closest to the average of the two human raters). Summary statistics for all algorithms used in \citet  {Andersson2017} were taken from their publicly available GitHub repository (github.com/richardandersson/EyeMovementDetectorEvaluation). Cohens Kappa was computed for the complete set of algorithms in \citet  {Andersson2017} and REMoDNaV.}}{10}{table.4}\protected@file@percent }
+\newlabel{tab:rmsd}{{4}{10}{Comparison of event duration statistics (mean, standard deviation, and number of events) for image, dot, and video stimuli. This table is modeled after \citet [Tables 3-6]{Andersson2017}, and root-mean-square-deviations (RMSD) from human raters are shown for fixations, saccades, PSOs, and pursuit as zero-based ranks (rank zero is closest to the average of the two human raters). Summary statistics for all algorithms used in \citet {Andersson2017} were taken from their publicly available GitHub repository (github.com/richardandersson/EyeMovementDetectorEvaluation). Cohens Kappa was computed for the complete set of algorithms in \citet {Andersson2017} and \remodnav }{table.4}{}}
+\citation{Andersson2017}
+\citation{Hanke2016}
+\citation{bahill1975main}
+\citation{dorr2010variability}
+\citation{Nystrom2010AnData}
+\citation{Nystrom2010AnData}
+\citation{Hanke2016}
+\citation{Hanke2016}
+\citation{Hanke2016}
+\citation{Hanke2016}
+\citation{Holmqvist2012}
+\citation{Hanke2016}
+\citation{Hanke2016}
+\newlabel{ana_2}{{}{11}{Prolonged viewing of dynamic stimuli}{section*.12}{}}
+\newlabel{ana_3}{{}{11}{Lower-quality data}{section*.13}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3}{\ignorespaces Main sequence of eye movement events during one 15 minute sequence of the movie (segment 2) for lab (top), and MRI participants (bottom). Data across all participants per dataset is shown on the left, and data for a single exemplary participant on the right.}}{12}{figure.3}\protected@file@percent }
+\newlabel{fig:overallComp}{{3}{12}{Main sequence of eye movement events during one 15 minute sequence of the movie (segment 2) for lab (top), and MRI participants (bottom). Data across all participants per dataset is shown on the left, and data for a single exemplary participant on the right}{figure.3}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4}{\ignorespaces Comparison of eye movement event duration distributions for the high-quality lab sample (top row), and the lower quality MRI sample (bottom row) across all participants (each $N=15$), and the entire duration of the same feature-length movie stimulus. All histograms depict absolute number of events. Visible differences are limited to an overall lower number of events, and fewer long saccades for the MRI sample. These are attributable to a higher noise level and more signal loss \citep  [compare][Fig. 4b]{Hanke2016} in the MRI sample, and to stimulus size differences (\unit  [23.75]{\textdegree } MRI vs. \unit  [34]{\textdegree } lab).}}{12}{figure.4}\protected@file@percent }
+\newlabel{fig:dist}{{4}{12}{Comparison of eye movement event duration distributions for the high-quality lab sample (top row), and the lower quality MRI sample (bottom row) across all participants (each $N=15$), and the entire duration of the same feature-length movie stimulus. All histograms depict absolute number of events. Visible differences are limited to an overall lower number of events, and fewer long saccades for the MRI sample. These are attributable to a higher noise level and more signal loss \citep [compare][Fig. 4b]{Hanke2016} in the MRI sample, and to stimulus size differences (\unit [23.75]{\textdegree } MRI vs. \unit [34]{\textdegree } lab)}{figure.4}{}}
+\citation{hessels2017noise}
+\citation{wakefulness}
+\@writefile{lof}{\contentsline {figure}{\numberline {5}{\ignorespaces Exemplary eye movement classification results for the same \unit  [10]{s} excerpt of a movie stimulus for a single participant in the high quality lab sample (top), and in the lower quality MRI sample (middle). The plots show filtered gaze coordinates (black), computed velocity time series (gray) overlayed on the eye movement event segmentation with periods of fixation (green), pursuit (beige), saccades (blue), and high/low-velocity post-saccadic oscillations (dark/light purple). The bottom panel shows the first \unit  [2]{s} of unfiltered gaze coordinates (black) and unfiltered velocity time series (gray) for lab (left) and mri (right) sample in greater detail. The variable noise level, and prolonged signal loss (white in top panel) visible in the MRI sample represent a challenge for algorithms. REMoDNaV\ uses an adaptive approach that determines major saccade events first, and subsequently tunes the velocity threshold to short time windows between these events. Figures like this accompany the program output to facilitate quality control and discovery of inappropriate preprocessing and classification parameterization.}}{13}{figure.5}\protected@file@percent }
+\newlabel{fig:remodnav}{{5}{13}{Exemplary eye movement classification results for the same \unit [10]{s} excerpt of a movie stimulus for a single participant in the high quality lab sample (top), and in the lower quality MRI sample (middle). The plots show filtered gaze coordinates (black), computed velocity time series (gray) overlayed on the eye movement event segmentation with periods of fixation (green), pursuit (beige), saccades (blue), and high/low-velocity post-saccadic oscillations (dark/light purple). The bottom panel shows the first \unit [2]{s} of unfiltered gaze coordinates (black) and unfiltered velocity time series (gray) for lab (left) and mri (right) sample in greater detail. The variable noise level, and prolonged signal loss (white in top panel) visible in the MRI sample represent a challenge for algorithms. \remodnav \ uses an adaptive approach that determines major saccade events first, and subsequently tunes the velocity threshold to short time windows between these events. Figures like this accompany the program output to facilitate quality control and discovery of inappropriate preprocessing and classification parameterization}{figure.5}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {6}{\ignorespaces  Comparison of sample velocity distributions for MRI and laboratory setting across all measurements and participants (excluding samples during periods of signal-loss). The MRI sample exhibits a larger fraction of higher velocities, despite a 30\% smaller stimulus size. }}{13}{figure.6}\protected@file@percent }
+\newlabel{vels}{{6}{13}{Comparison of sample velocity distributions for MRI and laboratory setting across all measurements and participants (excluding samples during periods of signal-loss). The MRI sample exhibits a larger fraction of higher velocities, despite a 30\% smaller stimulus size}{figure.6}{}}
+\citation{Nystrom2010AnData}
+\citation{Startsev2018}
+\citation{Zemblys2018}
+\citation{Nystrom2010AnData}
+\citation{HOOGE20166}
+\citation{Andersson2017}
+\citation{5523936}
+\citation{Hooge2018}
+\citation{Andersson2017}
+\citation{Hanke2016}
+\citation{Startsev2018}
+\citation{Mathe2012}
+\citation{Andersson2017,Larsson2013,Zemblys2018,5523936}
+\citation{michael_hanke_2019_2651042}
+\citation{Andersson2017}
+\newlabel{con}{{}{14}{Conclusion}{section*.14}{}}
+\citation{Sch2017}
+\citation{Andersson2017}
+\bibstyle{spbasic}
+\bibdata{references}
+\bibcite{amit2017temporal}{{1}{2017}{{Amit et~al.}}{{Amit, Abeles, Bar-Gad, and Yuval-Greenberg}}}
+\bibcite{Andersson2017}{{2}{2017}{{Andersson et~al.}}{{Andersson, Larsson, Holmqvist, Stridh, and Nystr{\"{o}}m}}}
+\bibcite{bahill1975main}{{3}{1975}{{Bahill et~al.}}{{Bahill, Clark, and Stark}}}
+\bibcite{carl1987pursuits}{{4}{1987}{{Carl and Gellman}}{{}}}
+\bibcite{cherici2012}{{5}{2012}{{Cherici et~al.}}{{Cherici, Kuang, Poletti, and Rucci}}}
+\bibcite{choe2016pupil}{{6}{2016}{{Choe et~al.}}{{Choe, Blake, and Lee}}}
+\bibcite{cohen1960coefficient}{{7}{1960}{{Cohen}}{{}}}
+\bibcite{dalveren2019evaluation}{{8}{2019}{{Dalveren and Cagiltay}}{{}}}
+\bibcite{dorr2010variability}{{9}{2010}{{Dorr et~al.}}{{Dorr, Martinetz, Gegenfurtner, and Barth}}}
+\bibcite{Friedman2018}{{10}{2018}{{Friedman et~al.}}{{Friedman, Rigas, Abdulin, and Komogortsev}}}
+\bibcite{GOLTZ1997789}{{11}{1997}{{Goltz et~al.}}{{Goltz, Irving, Steinbach, and EizenamnIZENMAN}}}
+\bibcite{Gordon2006}{{12}{2006}{{Gordon et~al.}}{{Gordon, Hendrick, Johnson, and Lee}}}
+\bibcite{gorgolewski2016brain}{{13}{2016}{{Gorgolewski et~al.}}{{Gorgolewski, Auer, Calhoun, Craddock, Das, Duff, Flandin, Ghosh, Glatard, Halchenko et~al.}}}
+\bibcite{HH+2013}{{14}{2013--}{{Halchenko et~al.}}{{Halchenko, Hanke et~al.}}}
+\bibcite{Hanke2016}{{15}{2016}{{Hanke et~al.}}{{Hanke, Adelh{\"{o}}fer, Kottke, Iacovella, Sengupta, Kaule, Nigbur, Waite, Baumgartner, and Stadler}}}
+\bibcite{michael_hanke_2019_2651042}{{16}{2019}{{Hanke et~al.}}{{Hanke, Dar, and Wagner}}}
+\bibcite{Hannula2010}{{17}{2010}{{Hannula et~al.}}{{Hannula, Althoff, Warren, Riggs, Cohen, and Ryan}}}
+\bibcite{Harris2014}{{18}{2014}{{Harris et~al.}}{{Harris, Young, and Andrews}}}
+\bibcite{hessels2017noise}{{19}{2017}{{Hessels et~al.}}{{Hessels, Niehorster, Kemner, and Hooge}}}
+\bibcite{hessels2018eye}{{20}{2018}{{Hessels et~al.}}{{Hessels, Niehorster, Nystr{\"o}m, Andersson, and Hooge}}}
+\bibcite{holmqvist2011eye}{{21}{2011}{{Holmqvist et~al.}}{{Holmqvist, Nystr{\"o}m, Andersson, Dewhurst, Jarodzka, and Van~de Weijer}}}
+\bibcite{Holmqvist2012}{{22}{2012}{{Holmqvist et~al.}}{{Holmqvist, Nystr{\"{o}}m, and Mulvey}}}
+\bibcite{HOOGE20166}{{23}{2016}{{Hooge et~al.}}{{Hooge, Holmqvist, and Nyström}}}
+\bibcite{Hooge2018}{{24}{2018}{{Hooge et~al.}}{{Hooge, Niehorster, Nystr{\"o}m, Andersson, and Hessels}}}
+\bibcite{hunter2007matplotlib}{{25}{2007}{{Hunter}}{{}}}
+\bibcite{jaccard1901etude}{{26}{1901}{{Jaccard}}{{}}}
+\bibcite{JOP+2001}{{27}{2001--}{{Jones et~al.}}{{Jones, Oliphant, Peterson et~al.}}}
+\bibcite{Komogortsev2013}{{28}{2013}{{Komogortsev and Karpov}}{{}}}
+\bibcite{5523936}{{29}{2010}{{{Komogortsev} et~al.}}{{{Komogortsev}, {Gobert}, {Jayarathna}, {Koh}, and {Gowda}}}}
+\bibcite{Larsson2013}{{30}{2013}{{Larsson et~al.}}{{Larsson, Nystr{\"{o}}m, and Stridh}}}
+\bibcite{LARSSON2015145}{{31}{2015}{{Larsson et~al.}}{{Larsson, Nystr{\"{o}}m, Andersson, and Stridh}}}
+\bibcite{HantaoLiu2011}{{32}{2011}{{Liu and Heynderickx}}{{}}}
+\bibcite{maguire2012studying}{{33}{2012}{{Maguire}}{{}}}
+\bibcite{Mathe2012}{{34}{2012}{{Mathe and Sminchisescu}}{{}}}
+\bibcite{real_world}{{35}{2019}{{Matusz et~al.}}{{Matusz, Dikker, Huth, and Perrodin}}}
+\bibcite{mckinney2010data}{{36}{2010}{{McKinney et~al.}}{{}}}
+\bibcite{Nystrom2010AnData}{{37}{2010}{{Nystr{\"{o}}m and Holmqvist}}{{}}}
+\bibcite{oliphant2006guide}{{38}{2006}{{Oliphant}}{{}}}
+\bibcite{van2018gazepath}{{39}{2018}{{van Renswoude et~al.}}{{van Renswoude, Raijmakers, Koornneef, Johnson, Hunnius, and Visser}}}
+\bibcite{Sch2017}{{40}{2017}{{Schnaithman}}{{}}}
+\bibcite{Schutz2011}{{41}{2011}{{Schutz et~al.}}{{Schutz, Braun, and Gegenfurtner}}}
+\bibcite{seabold2010statsmodels}{{42}{2010}{{Seabold and Perktold}}{{}}}
+\bibcite{stampe1993}{{43}{1993}{{Stampe}}{{}}}
+\bibcite{Startsev2018}{{44}{2018}{{Startsev et~al.}}{{Startsev, Agtzidis, and Dorr}}}
+\bibcite{wakefulness}{{45}{2014}{{Tagliazucchi and Laufs}}{{}}}
+\bibcite{Tikka2012}{{46}{2012}{{Tikka et~al.}}{{Tikka, V{\"{a}}ljam{\"{a}}e, de~Borst, Pugliese, Ravaja, Kaipainen, and Takala}}}
+\bibcite{Toiviainen2014}{{47}{2014}{{Toiviainen et~al.}}{{Toiviainen, Alluri, Brattico, Wallentin, and Vuust}}}
+\bibcite{Zemblys2018}{{48}{2018}{{Zemblys et~al.}}{{Zemblys, Niehorster, and Holmqvist}}}
+\gdef \@abspage@last{17}

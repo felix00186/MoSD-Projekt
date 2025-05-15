@@ -1,0 +1,50 @@
+This is BibTeX, Version 0.99d (TeX Live 2022/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+The style file: spbasic.bst
+Database file #1: references.bib
+Warning--entry type for "Sch2017" isn't style-file defined
+--line 84 of file references.bib
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+You've used 48 entries,
+            3269 wiz_defined-function locations,
+            1010 strings with 15772 characters,
+and the built_in function-call counts, 57303 in all, are:
+= -- 5284
+> -- 1602
+< -- 21
++ -- 565
+- -- 507
+* -- 5253
+:= -- 7724
+add.period$ -- 48
+call.type$ -- 48
+change.case$ -- 414
+chr.to.int$ -- 48
+cite$ -- 48
+duplicate$ -- 5111
+empty$ -- 5292
+format.name$ -- 654
+if$ -- 12082
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 535
+newline$ -- 154
+num.names$ -- 192
+pop$ -- 1087
+preamble$ -- 1
+purify$ -- 357
+quote$ -- 0
+skip$ -- 852
+stack$ -- 0
+substring$ -- 6752
+swap$ -- 1256
+text.length$ -- 5
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 426
+warning$ -- 0
+while$ -- 414
+width$ -- 0
+write$ -- 569
+(There was 1 warning)
